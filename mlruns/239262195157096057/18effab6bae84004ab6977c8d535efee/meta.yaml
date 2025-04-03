@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/239262195157096057/18effab6bae84004ab6977c8d535efee/artifacts
+end_time: 1743694892683
+entry_point_name: ''
+experiment_id: '239262195157096057'
+lifecycle_stage: active
+run_id: 18effab6bae84004ab6977c8d535efee
+run_name: fearless-duck-123
+run_uuid: 18effab6bae84004ab6977c8d535efee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743694892582
+status: 3
+tags: []
+user_id: Optimum
