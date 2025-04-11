@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/122494152092073840/26be89eeb56b4ae2ab38a5ccd949a4bf/artifacts
+deleted_time: 1743767038038
+end_time: 1743764770940
+entry_point_name: ''
+experiment_id: '122494152092073840'
+lifecycle_stage: deleted
+run_id: 26be89eeb56b4ae2ab38a5ccd949a4bf
+run_name: gifted-frog-114
+run_uuid: 26be89eeb56b4ae2ab38a5ccd949a4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743764765562
+status: 3
+tags: []
+user_id: Optimum
